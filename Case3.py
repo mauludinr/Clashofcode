@@ -37,3 +37,48 @@ for i in range(len(w)):
         elif(i%2==0):
             if (i==len(w)-1):print(w,end="")
             else:print(w,end=" ")
+
+# Test Cases      
+# 1) Input: 
+# Hello
+# S
+# Output :
+# Hello olleH Hello olleH Hello
+
+# 2) Input: 
+# CodinGame
+# D
+# Output :
+# CodinGame
+# emaGnidoC
+# CodinGame
+# emaGnidoC
+# CodinGame
+# emaGnidoC
+# CodinGame
+
+# 3) Input: 
+# ClashOfCode
+# S
+# Output :
+# ClashOfCode odeCfOhsalC ClashOfCode odeCfOhsalC ClashOfCode odeCfOhsalC ClashOfCode odeCfOhsalC ClashOfCode odeCfOhsalC ClashOfCode
+
+# 4) Input: 
+# ChampionCoder
+# D
+# Output :
+# ChampionCoder
+# redoCnoipmah
+# ChampionCoder
+# redoCnoipmahC
+# ChampionCoder
+# redoCnoipmah
+# ChampionCoder
+# redoCnoipmahC
+# ChampionCoder
+# redoCnoipmah
+# ChampionCoder
+# redoCnoipmahC
+# ChampionCoder
+# redoCnoipmah
+# ChampionCoder
