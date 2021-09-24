@@ -20,11 +20,28 @@ for i in range(len(s)):
     a+=ord(s[i])*i
 print(a)
 
+# Test Cases
+# 1) Test 1
+# Input
 # ABC
+# Expected output
 # 200
+
+# 2) Test 2
+# Input
 # ASCII
+# Expected output
 # 728
+
+# 3) Test 3
+# Input
 # index
+# Expected output
 # 1093
+
+# 4) Test 4
+# Input
 # CoDiNgAmE
+# Expected output
 # 3094
+
