@@ -39,13 +39,15 @@ for i in range(len(w)):
             else:print(w,end=" ")
 
 # Test Cases      
-# 1) Input: 
+# 1) Test 1
+# Input: 
 # Hello
 # S
 # Output :
 # Hello olleH Hello olleH Hello
 
-# 2) Input: 
+# 2) Test 2
+# Input: 
 # CodinGame
 # D
 # Output :
@@ -57,13 +59,15 @@ for i in range(len(w)):
 # emaGnidoC
 # CodinGame
 
-# 3) Input: 
+# 3) Test 3
+# Input: 
 # ClashOfCode
 # S
 # Output :
 # ClashOfCode odeCfOhsalC ClashOfCode odeCfOhsalC ClashOfCode odeCfOhsalC ClashOfCode odeCfOhsalC ClashOfCode odeCfOhsalC ClashOfCode
 
-# 4) Input: 
+# 4) Test 4
+# Input: 
 # ChampionCoder
 # D
 # Output :
